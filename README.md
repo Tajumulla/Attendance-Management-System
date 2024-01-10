@@ -14,7 +14,7 @@
 
 ## Prerequisites
 
-- ![Python Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30">
  Python 3.11
 - Required Python libraries (OpenCV, face_recognition, tkinter, ttkthemes)
 
@@ -51,7 +51,7 @@ We welcome your feedback! If you encounter any issues or have suggestions, pleas
 Feedback
 We welcome your feedback! If you encounter any issues or have suggestions, please use the feedback form in the application or open an issue on GitHub.
 
-Made with ❤️ and ![Python Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+Made with ❤️ and <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30">
  by Tajumulla
 
 Feel free to customize it further based on your preferences. If you have any more requests or questions, let me know!
