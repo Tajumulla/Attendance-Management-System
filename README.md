@@ -14,7 +14,8 @@
 
 ## Prerequisites
 
-- 🐍 Python 3.11
+- ![Python Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+ Python 3.11
 - Required Python libraries (OpenCV, face_recognition, tkinter, ttkthemes)
 
 ## Installation
@@ -26,7 +27,7 @@
    
 2. Install the required dependencies:
 
-    pip install -r requirements.txt
+        pip install -r requirements.txt
 
 3. Usage
   1. Run the main application:
@@ -50,6 +51,8 @@ We welcome your feedback! If you encounter any issues or have suggestions, pleas
 Feedback
 We welcome your feedback! If you encounter any issues or have suggestions, please use the feedback form in the application or open an issue on GitHub.
 
-Made with ❤️ and 🐍 by Tajumulla
+Made with ❤️ and ![Python Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+ by Tajumulla
+
 Feel free to customize it further based on your preferences. If you have any more requests or questions, let me know!
 
